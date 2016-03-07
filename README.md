@@ -1,4 +1,4 @@
-"# poli-usp-recicla"
+# Online waste management system [ARCHIVE]
 
 This prototype was created in 2010 while I was working at the University of São Paulo.
 
